@@ -8,7 +8,7 @@ Author: 0ver$hadowed
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: debs/com.obumbravit.betterwidgets_1.0_iphoneos-arm.deb
-Size: 34826
-MD5sum: 6ad02ba249b7d3133a43251a9318c051
-SHA1: c4bcdf100ea8a6e7a71bb34f9e4c345e65d6a2b0
-SHA256: 784dd531a9f7796b0de6a2d8ed78f738b21c40fbcfdee5daf62d7731f31849bb
+Size: 34824
+MD5sum: e49ee71beffaa66600c5c0ba9b64d0db
+SHA1: f5b7db75f68784d770bdf403dabb4c09cb3acdca
+SHA256: 619e0f4e4694a55aa2c9a1e426f5c34844e294b22dc1c53c84885b34ed3b21d4
