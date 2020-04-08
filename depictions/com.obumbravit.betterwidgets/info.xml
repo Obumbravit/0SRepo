@@ -1,0 +1,24 @@
+<package>
+	<id>com.obumbravit.betterwidgets</id>
+	<name>BetterWidgets</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Widget view customization!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<version>1.0</version>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
