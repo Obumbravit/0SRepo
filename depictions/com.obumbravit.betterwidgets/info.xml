@@ -16,9 +16,14 @@
 		<description>Widget view customization!</description>
 	</descriptionlist>
 	<screenshots></screenshots>
+	<changelog>
 	<changes>
 		<version>1.0.1</version>
 		<change>Fix A12 support</change>
 	</changes>
+	<changelog>
+		<version>1.0</version>
+		<change>Initial release</change>
+	</changelog>
 	<links></links>
 </package>
