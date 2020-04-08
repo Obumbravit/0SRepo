@@ -1,7 +1,7 @@
 <package>
 	<id>com.obumbravit.betterwidgets</id>
 	<name>BetterWidgets</name>
-	<version>1.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -16,6 +16,10 @@
 		<description>Widget view customization!</description>
 	</descriptionlist>
 	<screenshots></screenshots>
+	<changes>
+		<version>1.0.1</version>
+		<change>Fix A12 support</change>
+	</changes>
 	<changelog>
 		<version>1.0</version>
 		<change>Initial release</change>
