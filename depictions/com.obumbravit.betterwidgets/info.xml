@@ -25,7 +25,16 @@
 		<description>-Transparent Edit Button</description>
 		<description>-Custom Footer Text Color</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+	<screenshot>
+		<description>Widget View</description>
+		<image>screenshot1.jpg</image>
+	</screenshot>
+	<screenshot>
+		<description>Bottom Of Widget View</description>
+		<image>screenshot2.jpg</image>
+	</screenshot>
+	</screenshots>
 	<changelog>
 		<version>1.1</version>
 		<change>Add "Transparent Widget" option</change>
