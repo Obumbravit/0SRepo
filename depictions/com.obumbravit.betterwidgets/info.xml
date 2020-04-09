@@ -50,7 +50,7 @@
 		<link>
 			<name>Patreon (50% goes to Covid-19 supplies!)</name>
 			<url>https://www.patreon.com/0S_</url>
-			<iconclass>fa fa-patreon</iconclass>
+			<iconclass>fab fa-patreon</iconclass>
 		</link>
 	</links>
 </package>
