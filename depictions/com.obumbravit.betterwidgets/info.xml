@@ -1,7 +1,7 @@
 <package>
 	<id>com.obumbravit.betterwidgets</id>
 	<name>BetterWidgets</name>
-	<version>1.0.1</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -13,11 +13,29 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Widget view customization!</description>
+		<description>Widget view customization!
+		Features:
+		-Always Expanded Widgets
+		-Square Widgets
+		-Transparent Widgets
+		-Hide Widget Header
+		-Disable LS Time Padding
+		-Custom Edit Button Text
+		-Square Edit Button
+		-Transparent Edit Button
+		-Custom Footer Text Color</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Fix A12 Preferences</change>
+		<version>1.1</version>
+		<change>Add "Transparent Widget" option</change>
+		<change>Add "No Header" option</change>
+		<change>Add Custom Edit Button Text</change>
+		<change>Add "Square Edit Button" option</change>
+		<change>Add "Transparent Edit Button" option</change>
+		<change>Add Custom Footer Text and Transparency</change>
+		<change>Add Patreon link (50% goes to Covid-19 supplies!)</change>
+		<change>Special thanks to u/skrrtskrb for testing</change>
 	</changelog>
 	<links></links>
 </package>
