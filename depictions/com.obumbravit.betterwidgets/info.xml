@@ -13,17 +13,17 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Widget view customization!
-		Features:
-		-Always Expanded Widgets
-		-Square Widgets
-		-Transparent Widgets
-		-Hide Widget Header
-		-Disable LS Time Padding
-		-Custom Edit Button Text
-		-Square Edit Button
-		-Transparent Edit Button
-		-Custom Footer Text Color</description>
+		<description>Widget view customization!</description>
+		<description>Features:</description>
+		<description>-Always Expanded Widgets</description>
+		<description>-Square Widgets</description>
+		<description>Transparent Widgets</description>
+		<description>-Hide Widget Header</description>
+		<description>-Disable LS Time Padding</description>
+		<description>-Custom Edit Button Text</description>
+		<description>-Square Edit Button</description>
+		<description>-Transparent Edit Button</description>
+		<description>-Custom Footer Text Color</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
