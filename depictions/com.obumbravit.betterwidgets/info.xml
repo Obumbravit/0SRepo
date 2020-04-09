@@ -27,12 +27,20 @@
 	</descriptionlist>
 	<screenshots>
 	<screenshot>
-		<description>Widget View</description>
+		<description>Transparent + No Headers</description>
 		<image>screenshot.jpg</image>
 	</screenshot>
 	<screenshot>
-		<description>Bottom Of Widget View</description>
+		<description>Transparent + No Headers + Transparent Edit + Custom Edit Text</description>
 		<image>screenshot2.jpg</image>
+	</screenshot>
+	<screenshot>
+		<description>No LS Padding + No Headers</description>
+		<image>screenshot3.jpg</image>
+	</screenshot>
+	<screenshot>
+		<description>Square Widgets + Square Edit Button + Custom Edit Text + Custom Footer Color</description>
+		<image>screenshot4.jpg</image>
 	</screenshot>
 	</screenshots>
 	<changelog>
