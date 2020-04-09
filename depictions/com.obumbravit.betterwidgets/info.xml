@@ -46,5 +46,11 @@
 		<change>Add Patreon link (50% goes to Covid-19 supplies!)</change>
 		<change>Special thanks to u/skrrtskrb for testing</change>
 	</changelog>
-	<links></links>
+	<links>
+		<link>
+			<name>Patreon (50% goes to Covid-19 supplies!)</name>
+			<url>https://www.patreon.com/0S_</url>
+			<iconclass>fa fa-patreon</iconclass>
+		</link>
+	</links>
 </package>
