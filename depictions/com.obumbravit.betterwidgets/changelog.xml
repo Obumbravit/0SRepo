@@ -1,5 +1,11 @@
 <changelog>
 	<changes>
+		<version>1.2</version>
+		<change>Add Custom Widget Wallpaper option</change>
+		<change>Add Blurred Widget Background option</change>
+		<change>Add Hide Widget Header Text</change>
+	</changes>
+	<changes>
 		<version>1.1</version>
 		<change>Add "Transparent Widget" option</change>
 		<change>Add "No Header" option</change>
