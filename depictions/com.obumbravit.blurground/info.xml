@@ -1,0 +1,37 @@
+<package>
+	<id>com.obumbravit.blurground</id>
+	<name>BlurGround</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>BlurGround!</description>
+		<description>Features:</description>
+		<description>-A nice background blur on your home & lock screen.</description>
+	</descriptionlist>
+	<screenshots>
+	<screenshot>
+		<description>BlurGround showcased with Complications Grupi on the lock screen.</description>
+		<image>Bgscreenshot.png</image>
+	</screenshot>
+	</screenshots>
+	<changelog>
+		<version>1.0</version>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Patreon (50% goes to Covid-19 supplies!)</name>
+			<url>https://www.patreon.com/0S_</url>
+			<iconclass>fa fa-heart</iconclass>
+		</link>
+	</links>
+</package>

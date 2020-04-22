@@ -1,5 +1,11 @@
 <changelog>
 	<changes>
+		<version>1.3</version>
+		<change>Add Hide Spotlight Search (With auto height-adjustment!)</change>
+		<change>Add No LS Time Padding</change>
+		<change>Preference Redesign</change>
+	</changes>
+	<changes>
 		<version>1.2</version>
 		<change>Add Custom Widget Wallpaper option</change>
 		<change>Add Blurred Widget Background option</change>
