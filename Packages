@@ -26,8 +26,8 @@ Section: Tweaks
 Depends: mobilesubstrate
 Filename: debs/com.obumbravit.blurground_1.0_iphoneos-arm.deb
 Size: 66354
-MD5sum: e5cd7d2d7e17f9582fe46e7b2893eea5
-SHA1: ca8feded433ee729237a48b894df58d5e2168576
-SHA256: fcd4c5cba806df750f354838494791fab48b8ecbe5bbea670a1106d4eb41d37d
+MD5sum: 243a6d6a4f89ab5dd865f6677ec9847a
+SHA1: b1bfaa7ce43e68ec13afaf0e4be7ee7dacc38fd0
+SHA256: e6458c2494104ca3d8641a63043d95127c963b0fa491f15f98b747475b4c7ac0
 Depiction: https://Obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.blurground
 Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Bg.png
