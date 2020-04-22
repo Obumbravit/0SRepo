@@ -1,7 +1,7 @@
 <package>
-	<id>com.obumbravit.blurground</id>
-	<name>BlurGround</name>
-	<version>1.0</version>
+	<id>com.obumbravit.betterwidgets</id>
+	<name>BetterWidgets</name>
+	<version>1.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -13,19 +13,50 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>BlurGround!</description>
+		<description>Widget view customization!</description>
 		<description>Features:</description>
-		<description>-A nice background blur on your home & lock screen.</description>
+		<description>-Always Expanded Widgets</description>
+		<description>-Square Widgets</description>
+		<description>-Transparent Widgets</description>
+		<description>-Hide Widget Header</description>
+		<description>-Hide Widget Header Text</description>
+		<description>-Hide Spotlight Search (With auto height-adjustment!)</description>
+		<description>-Custom Widget Page Wallpaper</description>
+		<description>-Background Blur</description>
+		<description>-Disable LS Padding</description>
+		<description>-Disable LS Time Padding</description>
+		<description>-Custom Edit Button Text</description>
+		<description>-Square Edit Button</description>
+		<description>-Transparent Edit Button</description>
+		<description>-Custom Footer Text Color</description>
 	</descriptionlist>
 	<screenshots>
 	<screenshot>
-		<description>BlurGround Showcased with Complications & Grupi on the lock screen.</description>
-		<image>Bgscreenshot.jpg</image>
+		<description>Transparent + No Header Text + Custom Widget Wallpaper + No LS Padding</description>
+		<image>screenshot0.jpg</image>
+	</screenshot>
+	<screenshot>
+		<description>Transparent + No Headers</description>
+		<image>screenshot.jpg</image>
+	</screenshot>
+	<screenshot>
+		<description>Transparent + No Headers + Transparent Edit + Custom Edit Text</description>
+		<image>screenshot2.jpg</image>
+	</screenshot>
+	<screenshot>
+		<description>No LS Padding + No Headers</description>
+		<image>screenshot3.jpg</image>
+	</screenshot>
+	<screenshot>
+		<description>Square Widgets + Square Edit Button + Custom Edit Text + Custom Footer Color</description>
+		<image>screenshot4.jpg</image>
 	</screenshot>
 	</screenshots>
 	<changelog>
-		<version>1.0</version>
-		<change>Initial release</change>
+		<version>1.3</version>
+		<change>Add Hide Spotlight Search (With auto height-adjustment!)</change>
+		<change>Add No LS Time Padding</change>
+		<change>Preference Redesign</change>
 	</changelog>
 	<links>
 		<link>

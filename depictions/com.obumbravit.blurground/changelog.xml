@@ -1,7 +1,30 @@
 <changelog>
 	<changes>
-		<version>1.0</version>
-		<change>Initial release</change>
+		<version>1.3</version>
+		<change>Add Hide Spotlight Search (With auto height-adjustment!)</change>
+		<change>Add No LS Time Padding</change>
+		<change>Preference Redesign</change>
+	</changes>
+	<changes>
+		<version>1.2</version>
+		<change>Add Custom Widget Wallpaper option</change>
+		<change>Add Blurred Widget Background option</change>
+		<change>Add Hide Widget Header Text</change>
+	</changes>
+	<changes>
+		<version>1.1</version>
+		<change>Add "Transparent Widget" option</change>
+		<change>Add "No Header" option</change>
+		<change>Add Custom Edit Button Text</change>
+		<change>Add "Square Edit Button" option</change>
+		<change>Add "Transparent Edit Button" option</change>
+		<change>Add Custom Footer Text and Transparency</change>
+		<change>Add Patreon link (50% goes to Covid-19 supplies!)</change>
+		<change>Special thanks to u/skrrtskrb for testing</change>
+	</changes>
+	<changes>
+		<version>1.0.1</version>
+		<change>Fix A12 support</change>
 	</changes>
 	<changelog>
 		<version>1.0</version>
