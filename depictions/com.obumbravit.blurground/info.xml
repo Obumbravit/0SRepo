@@ -1,7 +1,7 @@
 <package>
-	<id>com.obumbravit.blurground</id>
-	<name>BlurGround</name>
-	<version>1.0</version>
+	<id>com.obumbravit.betterwidgets</id>
+	<name>BetterWidgets</name>
+	<version>1.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -24,8 +24,10 @@
 	</screenshot>
 	</screenshots>
 	<changelog>
-		<version>1.0</version>
-		<change>Initial release</change>
+		<version>1.3</version>
+		<change>Add Hide Spotlight Search (With auto height-adjustment!)</change>
+		<change>Add No LS Time Padding</change>
+		<change>Preference Redesign</change>
 	</changelog>
 	<links>
 		<link>
