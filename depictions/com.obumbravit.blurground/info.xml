@@ -26,8 +26,8 @@
 	</screenshots>
 	<changelog>
 		<version>1.1.2</version>
-		<change>Added 3 Blur Types to Choose From</change>
-		<change>Added Custom Blur Strength</change>
+		<change>Fixed lag</change>
+		<change>Cleaned up code</change>
 	</changelog>
 	<links>
 		<link>
