@@ -18,18 +18,18 @@ Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Bw.png
 
 Package: com.obumbravit.blurground
 Name: BlurGround
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Description: A nice customizable background blur on your home & lock screen.
 Maintainer: 0ver$hadowed
 Author: 0ver$hadowed
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: debs/com.obumbravit.blurground_1.1_iphoneos-arm.deb
-Size: 85264
+Filename: debs/com.obumbravit.blurground_1.1.1_iphoneos-arm.deb
+Size: 90154
 Installed-Size: 524
-MD5sum: c08ed80cc45877a65fec3744f4b3bf1b
-SHA1: 15225934b0ba2626c8bf4407e14c8696e9a2e91b
-SHA256: 0cb85fcf18f9e48a6be8cdecd3b568baebc1adfc0af1f391387e95458ccec54a
+MD5sum: a444ad4e23f26665ff261876f6ba2985
+SHA1: fda92e8b57ba2192bb5ed39da72db51bf1abce47
+SHA256: fa109d79f26dcbdcd134c236eb0995d13c6de3cffb518c39f97696ab746ac3c9
 Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.blurground
 Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Bg.png
