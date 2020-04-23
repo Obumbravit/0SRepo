@@ -1,7 +1,7 @@
 <package>
 	<id>com.obumbravit.blurground</id>
 	<name>BlurGround</name>
-	<version>1.1</version>
+	<version>1.1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -26,7 +26,7 @@
 	</screenshot>
 	</screenshots>
 	<changelog>
-		<version>1.1</version>
+		<version>1.1.2</version>
 		<change>Added 3 Blur Types to Choose From</change>
 		<change>Added Custom Blur Strength</change>
 	</changelog>
