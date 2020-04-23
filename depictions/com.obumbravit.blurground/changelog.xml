@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.1.1</version>
+		<change>Fixed tweak not working on fresh installation.</change>
+	</changes>
+	<changes>
 		<version>1.1</version>
 		<change>Added 3 Blur Types to Choose From</change>
 		<change>Added Custom Blur Strength</change>
