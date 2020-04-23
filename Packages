@@ -8,12 +8,12 @@ Author: 0ver$hadowed
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: debs/com.obumbravit.betterwidgets_1.3_iphoneos-arm.deb
-Size: 90716
+Size: 90808
 Installed-Size: 576
-MD5sum: 83699fefc3fcc8820b1cf45cd966aefb
-SHA1: b100e97fb11e496c0e47b9a21ba559294db86389
-SHA256: 03c46056d781604a34b92a1458c79f9666f26116e355cd09b429b1962e1bbbb9
-Depiction: https://Obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.betterwidgets
+MD5sum: bc26ee83dbf1200fb6cb7280254507a3
+SHA1: 8381de2b52d2e42ee1525b3f5dff64489da9d501
+SHA256: 9f715e3414db51451e4a32f2790a56fb54a80965864f074046d28477549ba5ee
+Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.betterwidgets
 Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Bw.png
 
 Package: com.obumbravit.blurground
@@ -26,10 +26,10 @@ Author: 0ver$hadowed
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: debs/com.obumbravit.blurground_1.1_iphoneos-arm.deb
-Size: 85256
+Size: 85264
 Installed-Size: 524
-MD5sum: 0040c87a3bcd95cf46b3320942234b7f
-SHA1: 3fef51f17269fc9c69089c8a85d3bafeab387744
-SHA256: 0a86cc4963ef375d61fdb384ff2b3ab3f87e457fc54b614832a07ec11d9ef785
-Depiction: https://Obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.blurground
+MD5sum: c08ed80cc45877a65fec3744f4b3bf1b
+SHA1: 15225934b0ba2626c8bf4407e14c8696e9a2e91b
+SHA256: 0cb85fcf18f9e48a6be8cdecd3b568baebc1adfc0af1f391387e95458ccec54a
+Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.blurground
 Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Bg.png
