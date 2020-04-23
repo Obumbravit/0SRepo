@@ -18,10 +18,6 @@
 		<description>-A nice background blur on your home & lock screen.</description>
 	</descriptionlist>
 	<screenshots>
-	<screenshot>
-		<description>BlurGround showcased with Complications & Grupi on the lock screen.</description>
-		<image>Bgscreenshot.jpg</image>
-	</screenshot>
 	</screenshots>
 	<changelog>
 		<version>1.0</version>
