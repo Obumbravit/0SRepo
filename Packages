@@ -13,7 +13,7 @@ MD5sum: c54329a0eff199aafe42a81d5d22e306
 SHA1: 6f93c19dda39f2d80356cf056dcc9a9ae23e4260
 SHA256: 302e6c934e91e618d8d935d23d0307df0618c278ed12874e2a28edb6759a15d3
 Depiction; https://Obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.betterwidgets
-Icon:https://raw.githubusercontent.com/Obumbravit/Icons/master/Bw.png
+Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Bw.png
 
 Package: com.obumbravit.blurground
 Name: BlurGround
@@ -29,5 +29,5 @@ Size: 66356
 MD5sum: 4d7644ec95d999bf42552839062335bb
 SHA1: 6642caf10dcfbe5c09007f16ea457944d725fbe3
 SHA256: 9c655da3ffab87ffe3aacc40350387e2e2cfbfda3c45c0b1fff11c3fcc2ca525
-Depiction: https://Obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.blurground
+Depiction; https://Obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.blurground
 Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Bg.png
