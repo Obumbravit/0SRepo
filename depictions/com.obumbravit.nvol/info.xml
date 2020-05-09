@@ -1,0 +1,31 @@
+<package>
+	<id>com.obumbravit.nvol</id>
+	<name>Nvol</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Hide ls music player volume.</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<version>0.1</version>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Patreon (50% goes to Covid-19 supplies!)</name>
+			<url>https://www.patreon.com/0S_</url>
+			<iconclass>fa fa-heart</iconclass>
+		</link>
+	</links>
+</package>
