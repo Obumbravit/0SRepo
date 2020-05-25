@@ -1,0 +1,60 @@
+<package>
+	<id>com.obumbravit.aux</id>
+	<name>Aux</name>
+	<version>BETA 1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>An elegant now playing overlay, that comes with you.</description>
+		<description>Aux was created to be clean and fit with stock iOS, and will be compatible with iOS 11 and up. But for now only iOS 13 and up is supported.</description>
+		<description>This is a beta release, as there is plenty to use now there will be many of updates very soon.</description>	
+	</descriptionlist>
+	<descriptionlist>	
+		<description>Styles.</description>
+		<description>Aux has multiple styles, with more to come. Each style is designed to fit to your personal preference, or setup</description>
+		<description>Styles:</description>
+		<description>Default Aux</description>
+		<description>Aux Mini</description>
+		<description>Aux Bar</description>
+		<description>And more to come very soon!</description>
+	</descriptionlist>
+	<descriptionlist>	
+		<description>Customizability.</description>
+		<description>You can move Aux to wherever you like it most, and customize the details and functionality.</description>
+		<description>Current Features:</description>
+		<description>Always Display Aux</description>
+		<description>Enable / Disable Marquee</description>
+		<description>Move Aux</description>
+		<description>Round Bar Corners</description>
+		<description>And once again, there are LOTS of features coming in the official and future beta releases.</description>
+	</descriptionlist>
+	<descriptionlist>	
+		<description>Contact.</description>
+		<description>Feel free to contact me on Twitter (@Obumbravit), and request features or report bugs.</description>
+	</descriptionlist>
+	<screenshots>
+	<screenshot>
+		<description>AuxBar, Aux Mini, and Aux.</description>
+		<image>AuxPreview1.png</image>
+	</screenshot>
+	</screenshots>
+	<changelog>
+		<version>BETA 1.0</version>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Patreon (50% goes to Covid-19 supplies!)</name>
+			<url>https://www.patreon.com/0S_</url>
+			<iconclass>fa fa-heart</iconclass>
+		</link>
+	</links>
+</package>
