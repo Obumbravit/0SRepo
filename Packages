@@ -61,10 +61,10 @@ Author: Obumbravit
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.obumbravit.aux_0.1_iphoneos-arm.deb
-Size: 67070
+Size: 67050
 Installed-Size: 340
-MD5sum: 954dc66e9e7f855bd50f9ff39a5509ce
-SHA1: 5b4ea97e2f3d9518fdbc6227afec5a6e3a09e470
-SHA256: 2df37c7c2e3f610a594e32401c59facffb4b061e427e93ee2c221418d07ab385
+MD5sum: dea153cf8331ff4349a03d3e9fe61d8b
+SHA1: 5adb63c4dc0b2e39b7a6d665e89258facededf5e
+SHA256: 1a69ccf12ddfcf23b71d8cdf0f69596c9751db924688b2d9f2e444359835a27e
 Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.aux
 Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Avx.png
