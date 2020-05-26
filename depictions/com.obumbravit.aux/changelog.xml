@@ -1,4 +1,10 @@
 <changelog>
+	<changes>
+		<version>BETA 1.0.1</version>
+		<change>Add HoP (Hide on Pause)</change>
+		<change>Cleaned up code</change>
+	</changes>
+	<changelog>
 	<changelog>
 		<version>BETA 1.0</version>
 		<change>Initial release</change>

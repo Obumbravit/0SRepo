@@ -52,19 +52,19 @@ SHA256: c48cea6991eb11134dde66b07705a7df0523b5cef72faa0f13829bfd13bda246
 Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.nvol
 
 Package: com.obumbravit.aux
-Name: Aux Beta 1.0
-Version: 1.0
+Name: Aux Beta 1.0.1
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Pass The Aux.
 Maintainer: Obumbravit
 Author: Obumbravit
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.obumbravit.aux_0.1_iphoneos-arm.deb
-Size: 67050
-Installed-Size: 340
-MD5sum: dea153cf8331ff4349a03d3e9fe61d8b
-SHA1: 5adb63c4dc0b2e39b7a6d665e89258facededf5e
-SHA256: 1a69ccf12ddfcf23b71d8cdf0f69596c9751db924688b2d9f2e444359835a27e
+Filename: debs/com.obumbravit.aux_1.0.1_iphoneos-arm.deb
+Size: 67814
+Installed-Size: 356
+MD5sum: 8c2dd28d83823e88a4dd7da49aea2d20
+SHA1: abf81b83bd0af38747cfe5915dbd66e511a34fff
+SHA256: 6bc4b49f0c8ea30ec25253e6710f1a9a461c1e8a81993cf423c93011fd83f2be
 Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.aux
 Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Avx.png
