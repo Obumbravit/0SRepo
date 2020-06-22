@@ -1,18 +1,18 @@
 Package: com.obumbravit.betterwidgets
 Name: BetterWidgets
-Version: 1.3
+Version: 1.4
 Architecture: iphoneos-arm
 Description: Complete widget view customization.
 Maintainer: 0ver$hadowed
 Author: 0ver$hadowed
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: debs/com.obumbravit.betterwidgets_1.3_iphoneos-arm.deb
-Size: 90808
-Installed-Size: 576
-MD5sum: bc26ee83dbf1200fb6cb7280254507a3
-SHA1: 8381de2b52d2e42ee1525b3f5dff64489da9d501
-SHA256: 9f715e3414db51451e4a32f2790a56fb54a80965864f074046d28477549ba5ee
+Filename: debs/com.obumbravit.betterwidgets_1.4_iphoneos-arm.deb
+Size: 68660
+Installed-Size: 456
+MD5sum: b2364a78056442a8402c1b6294148222
+SHA1: fb59e176419e768e29180b62230aa2b958cdc929
+SHA256: a0d06b6360dd07504f92a0643cd4a6e3ce69fa447431c4dbcb7deb800c876c02
 Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.betterwidgets
 Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Bw.png
 

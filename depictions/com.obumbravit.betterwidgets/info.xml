@@ -1,7 +1,7 @@
 <package>
 	<id>com.obumbravit.betterwidgets</id>
 	<name>BetterWidgets</name>
-	<version>1.3</version>
+	<version>1.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -25,10 +25,12 @@
 		<description>-Background Blur</description>
 		<description>-Disable LS Padding</description>
 		<description>-Disable LS Time Padding</description>
+		<description>-Hide Footer</description>
 		<description>-Custom Edit Button Text</description>
 		<description>-Square Edit Button</description>
 		<description>-Transparent Edit Button</description>
 		<description>-Custom Footer Text Color</description>
+		<description>-Custom Widget Group Size</description>
 	</descriptionlist>
 	<screenshots>
 	<screenshot>
@@ -53,10 +55,11 @@
 	</screenshot>
 	</screenshots>
 	<changelog>
-		<version>1.3</version>
-		<change>Add Hide Spotlight Search (With auto height-adjustment!)</change>
-		<change>Add No LS Time Padding</change>
-		<change>Preference Redesign</change>
+		<version>1.4</version>
+		<change>Custom Widget View Size (Credit: @JVCKP0T)</change>
+		<change>Hide Footer</change>
+		<change>Fixed Padding Issue</change>
+		<change>Lighter Code</change>
 	</changelog>
 	<links>
 		<link>
