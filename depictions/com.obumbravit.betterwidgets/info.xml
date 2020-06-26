@@ -1,7 +1,7 @@
 <package>
 	<id>com.obumbravit.betterwidgets</id>
 	<name>BetterWidgets</name>
-	<version>1.4</version>
+	<version>1.4.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -55,11 +55,8 @@
 	</screenshot>
 	</screenshots>
 	<changelog>
-		<version>1.4</version>
-		<change>Custom Widget View Size (Credit: @JVCKP0T)</change>
-		<change>Hide Footer</change>
-		<change>Fixed Padding Issue</change>
-		<change>Lighter Code</change>
+		<version>1.4.1</version>
+		<change>Fix Edit Button Being Initially Square</change>
 	</changelog>
 	<links>
 		<link>
