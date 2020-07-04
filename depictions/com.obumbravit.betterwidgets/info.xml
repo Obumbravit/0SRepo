@@ -1,7 +1,7 @@
 <package>
 	<id>com.obumbravit.betterwidgets</id>
 	<name>BetterWidgets</name>
-	<version>1.4.2</version>
+	<version>1.4.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -55,7 +55,7 @@
 	</screenshot>
 	</screenshots>
 	<changelog>
-		<version>1.4.2</version>
-		<change>Added Various Blur Customization Options.</change>
+		<version>1.4.3</version>
+		<change>Fixed All Known Bugs*</change>
 	</changelog>
 </package>

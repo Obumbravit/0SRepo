@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.4.3</version>
+		<change>Fixed All Known Bugs*</change>
+	</changes>
+	<changes>
 		<version>1.4.2</version>
 		<change>Added Various Blur Customization Options.</change>
 	</changes>
