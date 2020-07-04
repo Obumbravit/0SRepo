@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.4.2</version>
+		<change>Added Various Blur Customization Options.</change>
+	</changes>
+	<changes>
 		<version>1.4.1</version>
 		<change>Fix Edit Button Being Initially Square</change>
 	</changes>

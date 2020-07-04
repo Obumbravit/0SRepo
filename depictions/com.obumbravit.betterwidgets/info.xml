@@ -1,7 +1,7 @@
 <package>
 	<id>com.obumbravit.betterwidgets</id>
 	<name>BetterWidgets</name>
-	<version>1.4.1</version>
+	<version>1.4.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -22,7 +22,7 @@
 		<description>-Hide Widget Header Text</description>
 		<description>-Hide Spotlight Search (With auto height-adjustment!)</description>
 		<description>-Custom Widget Page Wallpaper</description>
-		<description>-Background Blur</description>
+		<description>-Background Blur (Now with lots of customization!)</description>
 		<description>-Disable LS Padding</description>
 		<description>-Disable LS Time Padding</description>
 		<description>-Hide Footer</description>
@@ -55,14 +55,7 @@
 	</screenshot>
 	</screenshots>
 	<changelog>
-		<version>1.4.1</version>
-		<change>Fix Edit Button Being Initially Square</change>
+		<version>1.4.2</version>
+		<change>Added Various Blur Customization Options.</change>
 	</changelog>
-	<links>
-		<link>
-			<name>Patreon (50% goes to Covid-19 supplies!)</name>
-			<url>https://www.patreon.com/0S_</url>
-			<iconclass>fa fa-heart</iconclass>
-		</link>
-	</links>
 </package>

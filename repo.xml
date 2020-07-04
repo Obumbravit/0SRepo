@@ -5,5 +5,10 @@
 			<url>https://twitter.com/Obumbravit</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
+		<link>
+			<name>Buy me a coffee</name>
+			<url>https://ko-fi.com/obumbravit</url>
+			<iconclass>fa fa-coffee</iconclass>
+		</link>
 	</footerlinks>
 </repo>
