@@ -7,12 +7,13 @@ Maintainer: 0ver$hadowed
 Author: 0ver$hadowed
 Section: Tweaks
 Depends: mobilesubstrate
+Conflicts: com.twickd.shadowdev.betterwidgets
 Filename: debs/com.obumbravit.betterwidgets_1.4.3_iphoneos-arm.deb
-Size: 61762
+Size: 61782
 Installed-Size: 2124
-MD5sum: f852e1da2e0b4f7289b809bb959c61ec
-SHA1: 5756984089914a9c8cee19e11836d1078fe98c5f
-SHA256: 19f0a72b1e0b8706534bcbab5392eceda347f6784daa1afbc092e7e3069f7999
+MD5sum: 855ba2ca9a5b0b597a8c392f2ea254c3
+SHA1: 27eed5d51dffd9eef633dc55bf94611eef23d81a
+SHA256: dd06f6aaf7515c22e07f39b3bc9b870f2905e2b199efd573c2aa8c7cd423a83e
 Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.betterwidgets
 Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Bw.png
 

@@ -57,5 +57,6 @@
 	<changelog>
 		<version>1.4.3</version>
 		<change>Fixed All Known Bugs*</change>
+		<change>Added Conflict Between 0$ Repo and Twickd</change>
 	</changelog>
 </package>
