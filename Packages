@@ -1,71 +1,71 @@
-Package: com.obumbravit.betterwidgets
-Name: BetterWidgets
-Version: 1.4.3
-Architecture: iphoneos-arm
-Description: Complete widget view customization.
-Maintainer: 0ver$hadowed
-Author: 0ver$hadowed
-Section: Tweaks
-Depends: mobilesubstrate
-Conflicts: com.twickd.shadowdev.betterwidgets
-Filename: debs/com.obumbravit.betterwidgets_1.4.3_iphoneos-arm.deb
-Size: 61782
-Installed-Size: 2124
-MD5sum: 855ba2ca9a5b0b597a8c392f2ea254c3
-SHA1: 27eed5d51dffd9eef633dc55bf94611eef23d81a
-SHA256: dd06f6aaf7515c22e07f39b3bc9b870f2905e2b199efd573c2aa8c7cd423a83e
-Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.betterwidgets
-Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Bw.png
-
-Package: com.obumbravit.blurground
-Name: BlurGround
-Version: 1.1.2
-Architecture: iphoneos-arm
-Description: A nice customizable background blur on your home & lock screen.
-Maintainer: 0ver$hadowed
-Author: 0ver$hadowed
-Section: Tweaks
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.obumbravit.blurground_1.1.2_iphoneos-arm.deb
-Size: 69920
-Installed-Size: 460
-MD5sum: 9907c77cb654937631076525ef712e82
-SHA1: 103eaec462771773955d646962b35a9df4721a36
-SHA256: b50ee0f79b9b047c73cd6672820bc806b2050a2d042bf5aa3efaf74b28c84941
-Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.blurground
-Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Bg.png
-
-Package: com.obumbravit.nvol
-Name: Nvol
-Version: 0.1
-Architecture: iphoneos-arm
-Description: Hide ls music player volume.
-Maintainer: 0ver$hadowed
-Author: 0ver$hadowed
-Section: Tweaks
-Depends: mobilesubstrate
-Filename: debs/com.obumbravit.nvol_0.1_iphoneos-arm.deb
-Size: 8168
-Installed-Size: 200
-MD5sum: 7a83bb8977d54dab4f2fc06e52c66e7d
-SHA1: a871805d4cdd106ef30c3250aa69d75a8a956634
-SHA256: c48cea6991eb11134dde66b07705a7df0523b5cef72faa0f13829bfd13bda246
-Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.nvol
-
 Package: com.obumbravit.aux
-Name: Aux Beta 1.0.1
 Version: 1.0.1
 Architecture: iphoneos-arm
-Description: Pass The Aux.
 Maintainer: Obumbravit
-Author: Obumbravit
-Section: Tweaks
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.obumbravit.aux_1.0.1_iphoneos-arm.deb
-Size: 67814
 Installed-Size: 356
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.obumbravit.aux_1.0.1_iphoneos-arm.deb
+Size: 67814
 MD5sum: 8c2dd28d83823e88a4dd7da49aea2d20
 SHA1: abf81b83bd0af38747cfe5915dbd66e511a34fff
 SHA256: 6bc4b49f0c8ea30ec25253e6710f1a9a461c1e8a81993cf423c93011fd83f2be
-Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.aux
+Section: Tweaks
+Description: Pass The Aux.
+Author: Obumbravit
+Depiction: https://Obumbravit.github.io/0SRepo/depictions/index.html?p=com.obumbravit.aux
 Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Avx.png
+Name: Aux Beta 1.0.1
+
+Package: com.obumbravit.betterwidgets
+Version: 1.4.3
+Architecture: iphoneos-arm
+Maintainer: 0ver$hadowed
+Installed-Size: 2048	.
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.twickd.shadowdev.betterwidgets
+Filename: ./debs/com.obumbravit.betterwidgets_1.4.3_iphoneos-arm.deb
+Size: 61790
+MD5sum: 616d9e3b40336dfc3bb62d92d93f06c4
+SHA1: 1873db7471e6252fd7a27d0042633d063783c4e9
+SHA256: 95810f5869ef331849e4034f7474f85ba52b077bcdcc48ed114e3cb249649915
+Section: Tweaks
+Description: Complete widget view customization.
+Author: 0ver$hadowed
+Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.betterwidgets
+Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Bw.png
+Name: BetterWidgets
+
+Package: com.obumbravit.blurground
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: 0ver$hadowed
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.obumbravit.blurground_1.1.2_iphoneos-arm.deb
+Size: 69920
+MD5sum: 9907c77cb654937631076525ef712e82
+SHA1: 103eaec462771773955d646962b35a9df4721a36
+SHA256: b50ee0f79b9b047c73cd6672820bc806b2050a2d042bf5aa3efaf74b28c84941
+Section: Tweaks
+Description: A nice customizable background blur on your home & lock screen.
+Author: 0ver$hadowed
+Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.blurground
+Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Bg.png
+Name: BlurGround
+
+Package: com.obumbravit.nvol
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: 0ver$hadowed
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.obumbravit.nvol_0.1_iphoneos-arm.deb
+Size: 8168
+MD5sum: 7a83bb8977d54dab4f2fc06e52c66e7d
+SHA1: a871805d4cdd106ef30c3250aa69d75a8a956634
+SHA256: c48cea6991eb11134dde66b07705a7df0523b5cef72faa0f13829bfd13bda246
+Section: Tweaks
+Description: Hide ls music player volume.
+Author: 0ver$hadowed
+Depiction: https://Obumbravit.github.io/0SRepo/depictions/index.html?p=com.obumbravit.nvol
+Name: Nvol
