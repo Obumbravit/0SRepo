@@ -20,7 +20,7 @@ Package: com.obumbravit.betterwidgets
 Version: 1.4.3
 Architecture: iphoneos-arm
 Maintainer: 0ver$hadowed
-Installed-Size: 2048	.
+Installed-Size: 2048
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.twickd.shadowdev.betterwidgets
 Filename: ./debs/com.obumbravit.betterwidgets_1.4.3_iphoneos-arm.deb
