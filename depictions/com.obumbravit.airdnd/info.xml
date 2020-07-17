@@ -1,0 +1,31 @@
+<package>
+	<id>com.obumbravit.airdnd</id>
+	<name>AirDnD</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.1</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Airplane Mode in Do Not Disturb.</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<version>1.0</version>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/Obumbravit/AirDnD</url>
+			<iconclass>fa fa-code</iconclass>
+		</link>
+	</links>
+</package>

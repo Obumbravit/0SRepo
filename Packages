@@ -1,3 +1,20 @@
+Package: com.obumbravit.airdnd
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Obumbravit
+Installed-Size: 1028
+Depends: mobilesubstrate
+Filename: ./debs/com.obumbravit.airdnd_1.0_iphoneos-arm.deb
+Size: 9262
+MD5sum: b9a4c2d58267fb6b5a7dfbe817fbb2a4
+SHA1: 450de2a09dbe9b6222b2d91ec85657822781be64
+SHA256: c5b1d2e2fd3f0d6d3cb3902eaf65f951eec79502f022e268709e86a90c1cdb0e
+Section: Tweaks
+Description: Airplane Mode in Do Not Disturb.
+Author: Obumbravit
+Depiction: https://Obumbravit.github.io/0SRepo/depictions/index.html?p=com.obumbravit.airdnd
+Name: AirDnD
+
 Package: com.obumbravit.aux
 Version: 1.0.1
 Architecture: iphoneos-arm
