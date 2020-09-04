@@ -1,0 +1,26 @@
+<package>
+	<id>com.obumbravit.leftymessages</id>
+	<name>LeftyMessages</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.1.1</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Make the Messages app more lefty-friendly.</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<version>1.0</version>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+	</links>
+</package>

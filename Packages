@@ -15,24 +15,6 @@ Author: Obumbravit
 Depiction: https://Obumbravit.github.io/0SRepo/depictions/index.html?p=com.obumbravit.airdnd
 Name: AirDnD
 
-Package: com.obumbravit.aux
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Obumbravit
-Installed-Size: 356
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.obumbravit.aux_1.0.1_iphoneos-arm.deb
-Size: 67814
-MD5sum: 8c2dd28d83823e88a4dd7da49aea2d20
-SHA1: abf81b83bd0af38747cfe5915dbd66e511a34fff
-SHA256: 6bc4b49f0c8ea30ec25253e6710f1a9a461c1e8a81993cf423c93011fd83f2be
-Section: Tweaks
-Description: Pass The Aux.
-Author: Obumbravit
-Depiction: https://Obumbravit.github.io/0SRepo/depictions/index.html?p=com.obumbravit.aux
-Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Avx.png
-Name: Aux Beta 1.0.1
-
 Package: com.obumbravit.betterwidgets
 Version: 1.4.3
 Architecture: iphoneos-arm
@@ -69,6 +51,24 @@ Author: 0ver$hadowed
 Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.blurground
 Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Bg.png
 Name: BlurGround
+
+Package: com.obumbravit.leftymessages
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Obumbravit
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.obumbravit.leftymessages_1.0_iphoneos-arm.deb
+Size: 6542
+MD5sum: 801912819121c83c4e510f5433d3ae79
+SHA1: a86868b1435751b08f1491296433be39421d969e
+SHA256: 3aad4d209b352245e43e9efe05debbfa30270dccaa7a1b3b2fa78b41085836b5
+Section: Tweaks
+Description: Make the Messages app more lefty-friendly.
+Author: Obumbravit
+Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.leftymessages
+Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/LeftyMessages.png
+Name: LeftyMessages
 
 Package: com.obumbravit.nvol
 Version: 0.1
