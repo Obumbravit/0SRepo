@@ -1,0 +1,14 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{296, 148}",
+    "itemCornerRadius": 10,
+    "banners":
+    [
+        {
+            "url": "https://raw.githubusercontent.com/Obumbravit/0SRepo/master/Resources/LeftyBanner.png",
+            "title": "LeftyMessages",
+            "package": "com.obumbravit.leftymessages",
+            "hideShadow": false
+        }
+    ]
+}
