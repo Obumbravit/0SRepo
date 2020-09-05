@@ -6,7 +6,7 @@
     [
         {
             "url": "https://raw.githubusercontent.com/Obumbravit/0SRepo/master/Resources/LeftyBanner.png",
-            "title": "LeftyMessages",
+            "title": "",
             "package": "com.obumbravit.leftymessages",
             "hideShadow": false
         }
