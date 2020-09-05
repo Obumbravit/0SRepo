@@ -1,7 +1,7 @@
 <package>
 	<id>com.obumbravit.leftymessages</id>
 	<name>LeftyMessages</name>
-	<version>1.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.1.1</miniOS>
@@ -18,8 +18,8 @@
 	<screenshots>
 	</screenshots>
 	<changelog>
-		<version>1.0</version>
-		<change>Initial release</change>
+		<version>1.0.1</version>
+		<change>Fix attachments (Only known bug)</change>
 	</changelog>
 	<links>
 	</links>
