@@ -53,16 +53,16 @@ Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Bg.png
 Name: BlurGround
 
 Package: com.obumbravit.leftymessages
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Obumbravit
 Installed-Size: 172
 Depends: mobilesubstrate
-Filename: ./debs/com.obumbravit.leftymessages_1.0.1_iphoneos-arm.deb
-Size: 6968
-MD5sum: e7d382a3be22930e43ecd942bc638047
-SHA1: fe0de55e8057af321267e4a8f97d1f55b76af6e6
-SHA256: 8d4f7e22b1e66e95f44b2585394ab8b258c303680835a659f90f5d1d75b5bc1b
+Filename: ./debs/com.obumbravit.leftymessages_1.0.2_iphoneos-arm.deb
+Size: 6956
+MD5sum: 7a3a8fc02a8d5b83bdd7cacd30175465
+SHA1: 95ad56a69c6c59973f5aba66676f15879f3cdf32
+SHA256: 228c16384f2c236140506ddf2daf289b046d67ac8d00229a06e3ca2e681a895e
 Section: Tweaks
 Description: Make the Messages app more lefty-friendly.
 Author: Obumbravit
