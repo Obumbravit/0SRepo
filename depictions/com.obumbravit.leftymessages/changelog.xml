@@ -2,6 +2,7 @@
 	<changes>
 		<version>1.0.2</version>
 		<change>Fix Subject</change>
+	</changes>
 	<changes>
 		<version>1.0.1</version>
 		<change>Fix attachments (Only known bug)</change>
