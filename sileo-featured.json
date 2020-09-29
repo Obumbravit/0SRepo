@@ -9,6 +9,12 @@
             "title": "",
             "package": "com.obumbravit.leftymessages",
             "hideShadow": false
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Obumbravit/0SRepo/master/Resources/CClockBanner.png",
+            "title": "",
+            "package": "com.obumbravit.cclock",
+            "hideShadow": false
         }
     ]
 }

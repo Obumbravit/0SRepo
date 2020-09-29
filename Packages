@@ -52,17 +52,35 @@ Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.blur
 Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Bg.png
 Name: BlurGround
 
-Package: com.obumbravit.leftymessages
-Version: 1.0.1
+Package: com.obumbravit.cclock
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Obumbravit
-Installed-Size: 172
+Installed-Size: 160
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.obumbravit.cclock_1.0_iphoneos-arm.deb
+Size: 32192
+MD5sum: 19c553067f30e76454e43c10b5c25303
+SHA1: 9ba726650d184e3c74660a7c856d38b60481a979
+SHA256: e22a9724688d3f9cfcc04163a10b8c2f97240fe453d900fd85fca47892b376cc
+Section: Control Center (Modules)
+Description: A true Control Center clock.
+Author: Obumbravit
+Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.cclock
+Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/CClock.png
+Name: CClock
+
+Package: com.obumbravit.leftymessages
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Obumbravit
+Installed-Size: 172dragon/_
 Depends: mobilesubstrate
-Filename: ./debs/com.obumbravit.leftymessages_1.0.1_iphoneos-arm.deb
-Size: 6968
-MD5sum: e7d382a3be22930e43ecd942bc638047
-SHA1: fe0de55e8057af321267e4a8f97d1f55b76af6e6
-SHA256: 8d4f7e22b1e66e95f44b2585394ab8b258c303680835a659f90f5d1d75b5bc1b
+Filename: ./debs/com.obumbravit.leftymessages_1.0.2_iphoneos-arm.deb
+Size: 6956
+MD5sum: 7a3a8fc02a8d5b83bdd7cacd30175465
+SHA1: 95ad56a69c6c59973f5aba66676f15879f3cdf32
+SHA256: 228c16384f2c236140506ddf2daf289b046d67ac8d00229a06e3ca2e681a895e
 Section: Tweaks
 Description: Make the Messages app more lefty-friendly.
 Author: Obumbravit
@@ -86,3 +104,4 @@ Description: Hide ls music player volume.
 Author: 0ver$hadowed
 Depiction: https://Obumbravit.github.io/0SRepo/depictions/index.html?p=com.obumbravit.nvol
 Name: Nvol
+
