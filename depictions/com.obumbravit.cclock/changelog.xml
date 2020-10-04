@@ -1,4 +1,11 @@
 <changelog>
+	<changes>
+		<version>1.1</version>
+		<change>Add ability to change size; (4 x 2), (3 x 2), (2 x 1)</change>
+		<change>Add compatibility override toggle</change>
+		<change>Fix minor issues</change>
+		<change>Fix preference assets</change>
+	</changes>
 	<changelog>
 		<version>1.0</version>
 		<change>Initial release</change>

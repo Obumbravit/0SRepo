@@ -53,16 +53,16 @@ Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Bg.png
 Name: BlurGround
 
 Package: com.obumbravit.cclock
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Obumbravit
-Installed-Size: 160
-Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/com.obumbravit.cclock_1.0_iphoneos-arm.deb
-Size: 32192
-MD5sum: 19c553067f30e76454e43c10b5c25303
-SHA1: 9ba726650d184e3c74660a7c856d38b60481a979
-SHA256: e22a9724688d3f9cfcc04163a10b8c2f97240fe453d900fd85fca47892b376cc
+Installed-Size: 348
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.obumbravit.cclock_1.1_iphoneos-arm.deb
+Size: 52436
+MD5sum: 02cb195e6942c94140b760ed553512f9
+SHA1: 487cfeb6d627e3cde80795aeac319d3bf94e8b54
+SHA256: 0725b740f9402e033a23ac43f31f8d850ad352b0545bb0fd3d3ca7cd8a6661e8
 Section: Control Center (Modules)
 Description: A true Control Center clock.
 Author: Obumbravit
